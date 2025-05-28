@@ -1,4 +1,5 @@
 # Document-cyberdefender-network-analysis-exfiltration-lab
+ <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 ###  CASE - This lab simulates a scenario where an accountant receives a malicious invoice email. As a SOC analyst, I performed detailed packet analysis using tools like Wireshark and virus Total to trace data exfiltration attempts, identify Indicators of Compromise, and understand attacker behavior, enhancing my incident response and threat hunting skills.
 
 ![Screenshot (45)](https://github.com/user-attachments/assets/30573fcb-acfa-408e-bd4b-21fe81f28fe0)
