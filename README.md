@@ -80,6 +80,8 @@ e
 ### Through this CyberDefenders lab, I gained practical experience in investigating real-world cyber attacks. I analyzed a malicious PCAP file using tools like Wireshark and virus total to detect suspicious network activity caused by a phishing email. This helped me improve my skills in network security and threat detection. It was a valuable hands-on experience that prepared me for real SOC work.
 
 
+![Screenshot (50)](https://github.com/user-attachments/assets/50d979e5-0fea-416b-b3a4-44dbe2920805)
+
 
 
 
